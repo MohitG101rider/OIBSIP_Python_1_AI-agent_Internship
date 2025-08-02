@@ -1,4 +1,4 @@
-# OIBSIP_Python_1_AI-agent_Internship
+# OIBSIP_Python_1_Voice_assistant_Internship
 As a project for my internship at Oasis Infobyte
 
 # AI Voice Assistant – Oasis Infobyte Internship
